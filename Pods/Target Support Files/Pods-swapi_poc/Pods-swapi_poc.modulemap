@@ -1,0 +1,6 @@
+framework module Pods_swapi_poc {
+  umbrella header "Pods-swapi_poc-umbrella.h"
+
+  export *
+  module * { export * }
+}
